@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Monster
+  - Upgrade
+  - BattleScene
+  - TownScene
+  - MTargetPoint
+  - BattleScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1631990343
+    locked: 0
+  - name: Pane
+    uniqueID: 1682481199
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WeaponAndEffect
+    uniqueID: 3915735549
+    locked: 0
+  - name: Toon
+    uniqueID: 3628195017
+    locked: 0
