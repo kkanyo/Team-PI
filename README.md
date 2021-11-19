@@ -6,18 +6,20 @@
 
 #### 주인공의 인내심과 성실함을 관리하며 타이밍에 맞게 무기를 던져 괴물을 처치하자!
 
-1. 게임장르: 2D 로그라이크
-2. 사용 플랫폼: Android
-3. 제작 인원: 3인 (개발 2인, 디자인 1인)
-4. 제작 기간: 5월 ~ 12월
-5. 사용 엔진: Unity
-6. 담당 부분: UI 및 전투 시스템 구현
+1. 제작 인원: 개발자 2인, 디자이너 2인
+2. 제작 기간: 2018. 03 ~ 2018. 12
+3. 사용 기술: C#, Unity
+4. 담당 부분
+  - 기획(공통)
+  - 밸런싱 작업
+  - 마을 콘텐츠 구현
+  - 대장간 무기 강화 콘텐츠 구현
+  - UGUI를 이용한 UI 구현
 ---
 
 ## 관련 링크
+상세 정보(Notion): https://flannel-tsunami-65a.notion.site/0e8a3457fbfc4d13847aad4612d0ce7d
 
-유튜브 링크: https://www.youtube.com/watch?v=83-jBgvM094
+소개 영상(YouTube): https://www.youtube.com/watch?v=83-jBgvM094
 
-구글 플레이 링크: https://play.google.com/store/apps/details?id=com.Playidea.STT
-
-관련 기사: https://newsroom.smilegate.com/bbs/board.php?bo_table=story&wr_id=44
+구글 플레이 스토어: https://play.google.com/store/apps/details?id=com.Playidea.STT
