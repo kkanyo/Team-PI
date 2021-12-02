@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PlayIdea
 >### 스마일게이트멤버십(SGM) 10기 PlayIdea
 >
@@ -24,7 +23,3 @@
 소개 영상(YouTube): https://www.youtube.com/watch?v=83-jBgvM094
 
 구글 플레이 스토어: https://play.google.com/store/apps/details?id=com.Playidea.STT
-=======
-# Team-PI
- 
->>>>>>> parent of 9897d64 (Merge branch 'main' of https://github.com/kkanyo/Team-PI)
