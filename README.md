@@ -29,7 +29,6 @@
 ---
 
 ## 관련 링크
-상세 정보(Notion): https://flannel-tsunami-65a.notion.site/0e8a3457fbfc4d13847aad4612d0ce7d
 
 소개 영상(YouTube): https://www.youtube.com/watch?v=83-jBgvM094
 
